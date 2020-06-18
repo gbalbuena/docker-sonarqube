@@ -1,4 +1,4 @@
-# Sonar qube
+# Sonar qube - Docker
 
 ## Getting started
 
